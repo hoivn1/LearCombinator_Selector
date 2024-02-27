@@ -1,0 +1,24 @@
+.title1 + h2 {
+  color: red;
+}
+/* đứng sát ngay sau dùng + */
+.title2 + h2 {
+  color: blue;
+}
+h1 ~ h3 {
+  color: chartreuse;
+}
+
+/* kiến thức tổng hợp Combinator Select */
+/* phần tử */
+/* sử dụng dấu # để gọi phần tử */
+/* class */
+/* sử dụng dấu . để gọi class  */
+/* sử dụng , để nối phần tử , class */
+/* #phần tử, .class */
+/* sử dụng class.class, phần tử.phần tử */
+/* sử dụng div > để  */
+/* div p => Gọi tất cả thẻ p trong thẻ div */
+/* div > p => Gọi tất cả thẻ p có mối quan hệ là con của thẻ div. Không bao gồm p nằm trong các cặp thẻ sau div  */
+/* div ~ p => Gọi tất cả thẻ p ở phía sau thẻ div */
+/* div + p => Gọi tất cả thẻ p thỏa điều kiện đứng sát và sau thẻ div */

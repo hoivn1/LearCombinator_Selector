@@ -1,0 +1,34 @@
+#D1 {
+  color: blue;
+}
+
+h1 {
+  color: red;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+}
+.title {
+  color: darkgoldenrod;
+}
+.title2 {
+  color: red;
+  font-size: 20px;
+}
+.D {
+  color: chocolate;
+  list-style: none;
+}
+.D_1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  font-style: italic;
+}
+.D_2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-style: oblique;
+}
+.D_3 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 10px;
+}

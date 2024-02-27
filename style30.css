@@ -1,0 +1,17 @@
+div.content2 p#cau4 {
+  color: red;
+}
+
+.title,
+.title.title3 {
+  color: chartreuse;
+}
+/* div > p để tác động vào con trực tiếp của thẻ div */
+div > p {
+  color: blue;
+}
+/* block p để tác động toàn bộ thẻ p có trong block */
+block p {
+  color: aqua;
+  font-size: 20px;
+}
